@@ -1,4 +1,4 @@
-# ICT171 Lab Journal
+# My ICT171 Lab Journal
 
 This repository contains my lab journal for ICT171! 
 Each Lab folder contains screenshots of when i was working on the labs and the outputs given when trying commands!
