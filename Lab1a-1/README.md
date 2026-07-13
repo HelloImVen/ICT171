@@ -35,4 +35,4 @@
 
 ### Checking Network Interfaces and IP Address
 
-![Checking network interfaces and IP address](./Screenshot%202026-07-09%20180737.png)
+![Checking network interfaces and IP address](./screenshots/Screenshot%202026-07-09%20180737.png)
