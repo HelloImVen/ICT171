@@ -1,6 +1,8 @@
 # ICT171 Lab Journal
 
-This repository contains my lab journal for ICT171! Each Lab folder contains screenshots of when i was working on the labs and the outputs given when trying commands!
+This repository contains my lab journal for ICT171! 
+Each Lab folder contains screenshots of when i was working on the labs and the outputs given when trying commands!
+Please note that some of my lab screenshots were taken when I re-did the labs. [Forgotten Screenshot on first run]
 
 ## Labs I Have Completed
 - [Lab 1a-1: Virtualisation and Linux Setup](Lab1a-1/)
