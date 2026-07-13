@@ -19,9 +19,6 @@
 ### Updating Ubuntu Packages
 
 ![Updating Ubuntu packages](./screenshots/Screenshot%202026-07-09%20180308.png)
-
-### Installing Required Lab Tools
-
 ![Installing required lab tools](./screenshots/Screenshot%202026-07-09%20180612.png)
 
 ### Installing Tool Dependencies
