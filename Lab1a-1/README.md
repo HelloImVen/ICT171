@@ -36,3 +36,6 @@
 ### Checking Network Interfaces and IP Address
 
 ![Checking network interfaces and IP address](./screenshots/Screenshot%202026-07-09%20180737.png)
+
+### My Conclusion
+With all that i have done, I confirmed that my Ubuntu WSL was running correctly, its packages were updated, all my required tools were installed, and the network interface ip a.
