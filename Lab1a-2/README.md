@@ -30,6 +30,6 @@
 
 ### My Conclusion
 
-With all that I have done, I confirmed that my Ubuntu WSL environment was running correctly.
+I confirmed that my Ubuntu WSL environment was running correctly.
 I updated the system packages, installed the required lab tools, and checked that important tools such as `nano`, `gcc`, and `whois` were available. 
 This prepared my Ubuntu WSL setup for the next ICT171 labs.
