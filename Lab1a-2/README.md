@@ -1,6 +1,6 @@
 ### Ubuntu WSL Terminal Opened
 
-![Ubuntu WSL terminal opened](./screenshots/Screenshot%202026-07-09%20182811.png)
+![Ubuntu WSL terminal opened](./Screenshots/Screenshot%202026-07-09%20182811.png)
 
 ### Updating Ubuntu Packages
 
