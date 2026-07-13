@@ -1,41 +1,41 @@
 ## Screenshots
 
-### Updating WSL 
+### Updating WSL
 
 ![Updating WSL](./screenshots/Screenshot%202026-07-09%20175601.png)
 
-### WSL Setup Evidence
+### Setting WSL Default Version
 
-![WSL Setup Evidence](./screenshots/Screenshot%202026-07-09%20175657.png)
+![Setting WSL default version](./screenshots/Screenshot%202026-07-09%20175657.png)
 
-### Ubuntu Environment Check
+### Installing Ubuntu in WSL
 
-![Ubuntu Environment Check](./screenshots/Screenshot%202026-07-09%20175837.png)
+![Installing Ubuntu in WSL](./screenshots/Screenshot%202026-07-09%20175837.png)
 
-### Linux Terminal Working
+### Checking WSL Ubuntu Version
 
-![Linux Terminal Working](./screenshots/Screenshot%202026-07-09%20175930.png)
+![Checking WSL Ubuntu version](./screenshots/Screenshot%202026-07-09%20175930.png)
 
 ### Updating Ubuntu Packages
 
-![Updating Ubuntu Packages](./screenshots/Screenshot%202026-07-09%20180308.png)
+![Updating Ubuntu packages](./screenshots/Screenshot%202026-07-09%20180308.png)
 
 ### Installing Required Lab Tools
 
-![Installing Required Lab Tools](./screenshots/Screenshot%202026-07-09%20180612.png)
+![Installing required lab tools](./screenshots/Screenshot%202026-07-09%20180612.png)
 
-### Tool Installation Output
+### Installing Tool Dependencies
 
-![Tool Installation Output](./screenshots/Screenshot%202026-07-09%20180632.png)
+![Installing tool dependencies](./screenshots/Screenshot%202026-07-09%20180632.png)
 
-### Package Installation Continued
+### Completing Tool Installation
 
-![Package Installation Continued](./screenshots/Screenshot%202026-07-09%20180648.png)
+![Completing tool installation](./screenshots/Screenshot%202026-07-09%20180648.png)
 
-### Checking Installed Tools
+### Verifying Installed Tools
 
-![Checking Installed Tools](./screenshots/Screenshot%202026-07-09%20180716.png)
+![Verifying installed tools](./screenshots/Screenshot%202026-07-09%20180716.png)
 
-### Tool Version Verification
+### Checking Tool Versions
 
-![Tool Version Verification](./screenshots/Screenshot%202026-07-09%20180737.png)
+![Checking tool versions](./screenshots/Screenshot%202026-07-09%20180737.png)
