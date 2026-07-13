@@ -1,10 +1,8 @@
 ## Screenshots
 
-All screenshots for this lab are shown below.
+### Updating WSL 
 
-### Ubuntu WSL Terminal Opened
-
-![Ubuntu WSL Terminal Opened](./screenshots/Screenshot%202026-07-09%20175601.png)
+![Updating WSL](./screenshots/Screenshot%202026-07-09%20175601.png)
 
 ### WSL Setup Evidence
 
