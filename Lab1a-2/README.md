@@ -16,7 +16,7 @@
 
 ### Checking nano Version
 
-![Checking nano version](./screenshots/Screenshot%202026-07-09%20183813%283.png)
+![Checking nano version](./screenshots/Screenshot%202026-07-09%20183813.png)
 
 ### Checking gcc Version
 
