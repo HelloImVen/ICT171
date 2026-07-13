@@ -40,7 +40,7 @@ I created a final summary table to compare the total cost of ownership between b
 
 The Excel spreadsheet used for the TCO calculation is included in this lab folder.
 
-[Open the TCO Excel spreadsheet](./Lab1a-1%20printer%20table.xlsx)
+[Open the TCO Excel spreadsheet](./Lab2a-1%20printer%20table.xlsx)
 
 ### My Conclusion
 
