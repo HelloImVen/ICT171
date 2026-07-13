@@ -33,6 +33,6 @@
 
 ![ls command](./screenshots/Screenshot%202026-07-09%20180716.png)
 
-### Checking Tool Versions
+### Checking Network Interfaces and IP Address
 
-![Checking tool versions](./screenshots/Screenshot%202026-07-09%20180737.png)
+![Checking network interfaces and IP address](./screenshots/YOUR-FILENAME.png)
