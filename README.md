@@ -1,9 +1,8 @@
 # ICT171 Lab Journal
 
-This repository contains my ICT171 lab journal. Each folder includes screenshots and notes showing the tasks I completed during the labs.
+This repository contains my lab journal for ICT171! Each Lab folder contains screenshots of when i was working on the labs and the outputs given when trying commands!
 
-## Labs Completed
-
+## Labs I Have Completed
 - [Lab 1a-1: Virtualisation and Linux Setup](Lab1a-1/)
 - [Lab 1a-2: Ubuntu Desktop and Command Line Familiarisation](Lab1a-2/)
 - [Lab 1b-1: Linux Services, SSH, Firewalls and Compression](Lab1b-1/)
@@ -17,8 +16,7 @@ This repository contains my ICT171 lab journal. Each folder includes screenshots
 - [Lab 3b-1: Backup Script and Cron Jobs](Lab3b-1/)
 - [Lab 3b-2: Additional Server Service](Lab3b-2/)
 
-## Tools Used
-
+## Tools I Have Used And Learned
 - Ubuntu WSL
 - Microsoft Azure
 - Apache2
