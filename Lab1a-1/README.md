@@ -4,28 +4,40 @@ All screenshots for this lab are shown below.
 
 ### Ubuntu WSL Terminal Opened
 
-![Ubuntu WSL terminal opened](screenshots/Screenshot%202026-07-09%20182811.png)
+![Ubuntu WSL Terminal Opened](./screenshots/Screenshot%202026-07-09%20175601.png)
+
+### WSL Setup Evidence
+
+![WSL Setup Evidence](./screenshots/Screenshot%202026-07-09%20175657.png)
+
+### Ubuntu Environment Check
+
+![Ubuntu Environment Check](./screenshots/Screenshot%202026-07-09%20175837.png)
+
+### Linux Terminal Working
+
+![Linux Terminal Working](./screenshots/Screenshot%202026-07-09%20175930.png)
 
 ### Updating Ubuntu Packages
 
-![Updating Ubuntu packages](screenshots/Screenshot%202026-07-09%20182941.png)
+![Updating Ubuntu Packages](./screenshots/Screenshot%202026-07-09%20180308.png)
 
 ### Installing Required Lab Tools
 
-![Installing required lab tools](screenshots/Screenshot%202026-07-09%20183606.png)
+![Installing Required Lab Tools](./screenshots/Screenshot%202026-07-09%20180612.png)
 
-### Tool Installation Completed
+### Tool Installation Output
 
-![Tool installation completed](screenshots/Screenshot%202026-07-09%20183734.png)
+![Tool Installation Output](./screenshots/Screenshot%202026-07-09%20180632.png)
 
-### Checking nano Version
+### Package Installation Continued
 
-![Checking nano version](screenshots/Screenshot%202026-07-09%20183813.png)
+![Package Installation Continued](./screenshots/Screenshot%202026-07-09%20180648.png)
 
-### Checking gcc Version
+### Checking Installed Tools
 
-![Checking gcc version](screenshots/Screenshot%202026-07-09%20183848.png)
+![Checking Installed Tools](./screenshots/Screenshot%202026-07-09%20180716.png)
 
-### Checking whois Version
+### Tool Version Verification
 
-![Checking whois version](screenshots/Screenshot%202026-07-09%20183936.png)
+![Tool Version Verification](./screenshots/Screenshot%202026-07-09%20180737.png)
